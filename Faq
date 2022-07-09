@@ -9,3 +9,6 @@ after that you will be sent to linkvertise where you need to get through the ads
 
 Antivirus blocking downloading/running Elysian?:
 - Antiviruses usually mistake Roblox exploits as viruses due to their injection. Most if not all modern Roblox exploits work by injecting dll into roblox.
+
+Roblox process not found?:
+- This is caused by the fact that the Microsoft Store version of Elysian isnt injectable.
